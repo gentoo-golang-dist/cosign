@@ -2,7 +2,7 @@
   on:
     push:
     schedule:
-      - cron: "39 */8 * * *"
+      - cron: "27 */8 * * *"
     workflow_dispatch:
 
   jobs:
